@@ -1,28 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mateja Aleksov</h1>
-<h3 align="center">A passionate frontend developer and data engineer from Serbia</h3>
+# Hi, I'm Mateja Aleksov 👋
 
-- 🔭 I’m currently working on **Wayfair n8n AI agent Engineering Externship**
+A passionate frontend developer and data engineer from Serbia
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🔭 I'm working on Wayfair n8n AI agent Engineering Externship
+- 🌱 I'm learning Php
+- 💬 Ask me about FrontEnd
+- ⚡ Fun fact: Vibecoding is my passion.
 
-- 👯 I’m looking to collaborate on **Any projects if u need help email me.**
+## Tech I use
 
-- 👨‍💻 All of my projects are available at [https://github.com/MataProjekti](https://github.com/MataProjekti)
+![Html](https://img.shields.io/badge/Html-1f2328?style=for-the-badge&logo=html&logoColor=white) ![Css](https://img.shields.io/badge/Css-1f2328?style=for-the-badge&logo=css&logoColor=white) ![Python](https://img.shields.io/badge/Python-1f2328?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1f2328?style=for-the-badge&logo=javascript&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-1f2328?style=for-the-badge&logo=typescript&logoColor=white) ![REACT](https://img.shields.io/badge/REACT-1f2328?style=for-the-badge&logo=react&logoColor=white) ![REACTNATIVE](https://img.shields.io/badge/REACTNATIVE-1f2328?style=for-the-badge&logo=reactnative&logoColor=white) ![FIGMAMAKE](https://img.shields.io/badge/FIGMAMAKE-1f2328?style=for-the-badge&logo=figmamake&logoColor=white) ![CURSOR](https://img.shields.io/badge/CURSOR-1f2328?style=for-the-badge&logo=cursor&logoColor=white) ![CLAUDECODE](https://img.shields.io/badge/CLAUDECODE-1f2328?style=for-the-badge&logo=claudecode&logoColor=white) ![ORCAAI.](https://img.shields.io/badge/ORCAAI.-1f2328?style=for-the-badge&logo=orcaaidot&logoColor=white)
 
-- 💬 Ask me about **FrontEnd development**
+## My GitHub
 
-- 📫 How to reach me **aleksovmateja050@gmail.com**
+[![mataprojekti's GitHub stats](https://gitshine.com/card/mataprojekti?theme=night)](https://gitshine.com/stats/mataprojekti)
 
-- 📄 See my CV [file:///C:/Users/PC/Desktop/Novi%20cv%20word/CVMatejaAleksovENG.pdf](file:///C:/Users/PC/Desktop/Novi%20cv%20word/CVMatejaAleksovENG.pdf)
+## Find me
 
-- ⚡ Fun fact **I like cats.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//mateja-aleksov-03aa35272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mateja-aleksov-03aa35272/" height="30" width="40" /></a>
-<a href="/https://sajt-mateja-aleksov-e6eevhoge-mateja personal.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sajt-mateja-aleksov-e6eevhoge-mateja personal.vercel.app/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-ypescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[Website](https://sajt-mateja-aleksov-e6eevhoge-mateja personal.vercel.app/) · [X](https://x.com/Mateja_SD) · [LinkedIn](https://www.linkedin.com/in/mateja-aleksov-03aa35272) · [Email](mailto:aleksovmateja050@gmail.com)

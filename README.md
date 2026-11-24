@@ -9,7 +9,7 @@ A passionate frontend developer and data engineer from Serbia
 
 ## AI I use
 
-![FIGMA MAKE](https://img.shields.io/badge/FIGMA%20MAKE-1f2328?style=for-the-badge&logo=figmamake&logoColor=white) ![CURSOR](https://img.shields.io/badge/CURSOR-1f2328?style=for-the-badge&logo=cursor&logoColor=white) ![CLAUDECODE](https://img.shields.io/badge/CLAUDECODE-1f2328?style=for-the-badge&logo=claudecode&logoColor=white) ![ORCAAI.](https://img.shields.io/badge/ORCAAI.-1f2328?style=for-the-badge&logo=orcaaidot&logoColor=white) ![OpenCode.](https://img.shields.io/badge/FIGMA%20MAKE-1f2328?style=for-the-badge&logo=figmamake&logoColor=white) ![FreeBuff](https://img.shields.io/badge/FIGMA%20MAKE-1f2328?style=for-the-badge&logo=figmamake&logoColor=white)
+![FIGMA MAKE](https://img.shields.io/badge/FIGMA%20MAKE-1f2328?style=for-the-badge&logo=figmamake&logoColor=white) ![CURSOR](https://img.shields.io/badge/CURSOR-1f2328?style=for-the-badge&logo=cursor&logoColor=white) ![CLAUDECODE](https://img.shields.io/badge/CLAUDECODE-1f2328?style=for-the-badge&logo=claudecode&logoColor=white) ![ORCAAI.](https://img.shields.io/badge/ORCAAI.-1f2328?style=for-the-badge&logo=orcaaidot&logoColor=white) ![OpenCode.](https://img.shields.io/badge/Open%20Code-1f2328?style=for-the-badge&logo=opencode&logoColor=white) ![FreeBuff](https://img.shields.io/badge/Free%20Buff-1f2328?style=for-the-badge&logo=freebuff&logoColor=white)
 
 ## My GitHub
 

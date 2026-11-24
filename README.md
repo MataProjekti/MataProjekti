@@ -17,4 +17,4 @@ A passionate frontend developer and data engineer from Serbia
 
 ## Find me
 
-[Website](https://sajt-mateja-aleksov-e6eevhoge-mateja personal.vercel.app/) · [X](https://x.com/Mateja_SD) · [LinkedIn](https://www.linkedin.com/in/mateja-aleksov-03aa35272) · [Email](mailto:aleksovmateja050@gmail.com)
+[X](https://x.com/Mateja_SD) · [LinkedIn](https://www.linkedin.com/in/mateja-aleksov-03aa35272) · [Email](mailto:aleksovmateja050@gmail.com)

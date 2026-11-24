@@ -22,6 +22,7 @@ A passionate frontend developer and data engineer from Serbia
 ---
 
 <p align="center">
-  <img src="./assets/github-card.png" width="100%" alt="Mateja's GitHub Profile Card">
+  <img src="https://raw.githubusercontent.com/mataprojekti/mataprojekti/main/assets/github-card.png"
+       alt="Mateja's GitHub Profile Card"
+       width="100%">
 </p>
-
